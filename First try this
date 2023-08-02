@@ -1,0 +1,6 @@
+apt update
+ pkg install git
+ git clone https://github.com/@jisshortforjay/Tool-X.git
+ cd Tool-X
+ chmod +x install.aex
+ sh install.aex
